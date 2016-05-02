@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gallicwarbookiv05whitgoog_0006.png"; bbox 0 0 1964 3336; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 134 1325 794 1401">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 134 1325 794 1401">
+     <span class='ocr_line' id='line_1_1' title="bbox 134 1325 794 1401; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 134 1325 373 1401; x_wconf 84' lang='lat' dir='ltr'>CAESAR&#39;S</span> <span class='ocrx_word' id='word_1_2' title='bbox 417 1327 623 1401; x_wconf 84' lang='lat' dir='ltr'>GALLIC</span> <span class='ocrx_word' id='word_1_3' title='bbox 666 1327 794 1400; x_wconf 90' lang='lat' dir='ltr'>WAR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 376 1549 547 1608">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 376 1549 547 1608">
+     <span class='ocr_line' id='line_1_2' title="bbox 376 1549 547 1608; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 376 1549 468 1608; x_wconf 76' lang='lat' dir='ltr'>Boox</span> <span class='ocrx_word' id='word_1_5' title='bbox 489 1549 547 1607; x_wconf 93' lang='lat'>111.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 986 3336">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 986 3336">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 986 3336; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 986 3336; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
